@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Noritem-Dev" alt="Profile Forks"></a>
 <a href="https://discord.gg/casadev" target="_blank"> <img src="https://discord.com/api/guilds/961748786965786636/widget.png?style=shield" alt="shield.png"></a>
 
-✔️・**Latest open source project [Cloner](https://github.com/Noritem-Dev/Cloner)**
+✔️・**Latest open source project [Nitro Generator](https://github.com/Noritem-Dev/Nitro-Generator)**
 
 📩・**Want to reach? Add Noritem#6666 on [Discord](https://discord.gg/casadev)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Noritem-Dev" /> </p>
