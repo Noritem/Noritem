@@ -1,12 +1,12 @@
 <p align='center'>
-  <b>Hi 👋, I'm  Moxx#1337/</b><br>
+  <b>Hi 👋, I'm  Moxx#9499</b><br>
   <a href="https://discord.gg/moxxcc">Discord</a> |
   <a href="https://www.youtube.com/c/moxxvfx">YouTube</a> |
 </p>
 
 <p align="center"><br>
   <a href="https://github.com/Noritem">
-    <img src="https://lanyard.cnrad.dev/api/1100806543210979390"/>
+    <img src="https://lanyard.cnrad.dev/api/1113308823193665546"/>
      </a>
 </p>
 
