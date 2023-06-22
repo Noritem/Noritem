@@ -6,7 +6,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/Noritem">
-    <img src="https://lanyard.cnrad.dev/api/1113308823193665546"/>
+    <img src="https://lanyard.cnrad.dev/api/1121449146835009536"/>
      </a>
 </p>
 
