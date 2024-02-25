@@ -1,7 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm  moxx.vfx</b><br>
-  <a href="https://discord.gg/moxxcc">Discord</a> |
-  <a href="https://www.youtube.com/c/moxxvfx">YouTube</a> |
+  <b>Hi 👋, I'm  Noritem</b>
 </p>
 
 <p align="center"><br>
